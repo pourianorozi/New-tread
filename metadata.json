@@ -1,0 +1,6 @@
+{
+  "name": "SmartTrade",
+  "description": "سامانه هوشمند تحلیل تکنیکال، سیگنال خرید و فروش و نمودار تریدینگ ویو",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
